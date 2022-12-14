@@ -2,7 +2,7 @@
 
 
 
-## To see the result [TAP HERE](https://vercel.com/alca-code/html-practice-space-x-page/HkNwUMd6sEBwz3shpgLkHebsAhex)
+## To see the result [TAP HERE](https://html-practice-space-x-page.vercel.app/)
 
 ### [Figma layout](https://www.figma.com/file/3v7NoedNxo8IwmktTsQYXa/Space-X?node-id=2%3A2&t=Ao9PHW8pTgVFLwJn-0)
 
